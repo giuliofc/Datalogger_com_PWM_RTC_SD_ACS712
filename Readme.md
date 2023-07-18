@@ -9,6 +9,6 @@ E dois botões para controle do PWM, um para aumentar e outro para diminuir.
 A cada 10 segundos todo o arquivo é lido do cartão SD e impresso na serial.
 
 
-![Esquema de ligação](imagens/ligação_ACS712_RTC_SD_Transistor_bb.png)
+![Esquema de ligação](imagens/ligacao_ACS712_RTC_SD_Transistor_bb.png)
 
 ![Foto datalogger](imagens/Foto_real_Datalogger.PNG)
